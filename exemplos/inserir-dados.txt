@@ -1,0 +1,4 @@
+INSERT INTO<tabela>(<colunas...>)VALUES(<valores...>)
+Precisamos inserir o nome das colunas e tambem os valores para cada uma, separados por vírgula;
+Os valores precisam corresponder a ordem das colunas;
+Obs: valores de texto são inseridos entre aspas;
