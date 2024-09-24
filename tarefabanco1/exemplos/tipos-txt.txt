@@ -1,0 +1,8 @@
+Tipos de textos
+
+CHAR(x):Aceita textos com 0 a 255 caracteres;
+VARCHAR(x):Aceita textos com 0 a 65535 caracteres;
+Onde "x" é a quantidade máxima;
+TINYTEXT: Apenas textos com até 255 caracteres;
+MEDIUMTEXT:Apenas texto com até 16777215 caracteres;
+Obs: CHAR e VARCHAR aceitam números e caracteres especias;
